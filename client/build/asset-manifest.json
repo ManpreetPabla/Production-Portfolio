@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65e19b9a.css",
+    "main.js": "/static/js/main.aa692ee5.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Manpreet_Pabla_Resume.pdf": "/static/media/Manpreet_Pabla_Resume.a81599e39b79962b9f97.pdf",
+    "index.html": "/index.html",
+    "main.65e19b9a.css.map": "/static/css/main.65e19b9a.css.map",
+    "main.aa692ee5.js.map": "/static/js/main.aa692ee5.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65e19b9a.css",
+    "static/js/main.aa692ee5.js"
+  ]
+}
